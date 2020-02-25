@@ -1,0 +1,76 @@
+{
+  "id": 1561686365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2006-11-27T20:21:09",
+    "edtf:inception": "2006-11-27~",
+    "flysfo:airline": "EZ",
+    "flysfo:date": "2006-11-27",
+    "flysfo:event": "A",
+    "flysfo:flight_number": "EZ1509",
+    "flysfo:journey": "DOV-SFO",
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-75.407831,39.084652",
+    "geom:latitude": 38.351321,
+    "geom:longitude": -98.889387,
+    "iata:airline": "EZ",
+    "icao:aircraft": "B741",
+    "icao:airline": "EIA",
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 1159289885,
+    "sfomuseum:airline_id": 1159284353,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102528677,
+    "sfomuseum:flight_id": "20061127-A-EIA-1509",
+    "sfomuseum:flight_number": [
+      "EZ1509", 
+      "EIA1509"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "sfonoise",
+    "wof:belongsto": [
+      85688637, 
+      1159396337, 
+      102527513, 
+      1561686365, 
+      85922583, 
+      102191575, 
+      85633793, 
+      102087579
+    ],
+    "wof:country": "US",
+    "wof:created": 1582661162,
+    "wof:geomhash": "cfbdaa8aa8d26615214ebb2c67b1269c",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396337,
+        "campus_id": 102527513,
+        "concourse_id": -1,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "event_id": 1561686365,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "venue_id": -1,
+        "wing_id": -1
+      }
+    ],
+    "wof:id": 1561686365,
+    "wof:lastmodified": 1582661162,
+    "wof:name": "EIA1509 (DOV-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "event",
+    "wof:repo": "sfomuseum-data-flights-2006",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943, 
+    37.61799, 
+    -75.407831, 
+    39.084652
+  ],
+  "geometry": {"coordinates":[[-75.407831,39.084652],[-122.370943,37.61799]],"type":"MultiPoint"}
+}
