@@ -2,6 +2,10 @@
   "id": 1561384235,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-03-17",
+    "date:cessation_upper": "2006-03-17",
+    "date:inception_lower": "2006-03-01",
+    "date:inception_upper": "2006-03-31",
     "edtf:cessation": "2006-03-17T16:29:36",
     "edtf:inception": "2006-03-17~",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20060317-A-AAL-1942",
     "sfomuseum:flight_number": [
-      "AA1942", 
+      "AA1942",
       "AAL1942"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102527513, 
-      102087579, 
-      1561384235, 
-      85633793, 
-      85922583, 
-      1159396337, 
+      85688637,
+      102527513,
+      102087579,
+      85633793,
+      85922583,
+      1159396337,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561384235,
-    "wof:lastmodified": 1582657654,
+    "wof:lastmodified": 1717009717,
     "wof:name": "AAL1942 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

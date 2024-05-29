@@ -2,6 +2,10 @@
   "id": 1561572875,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-08-01",
+    "date:cessation_upper": "2006-08-31",
+    "date:inception_lower": "2006-08-22",
+    "date:inception_upper": "2006-08-22",
     "edtf:cessation": "2006-08-22~",
     "edtf:inception": "2006-08-22T07:30:34",
     "flysfo:airline": "AC",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20060822-D-ACA-581",
     "sfomuseum:flight_number": [
-      "AC581", 
+      "AC581",
       "ACA581"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102087579, 
-      85633793, 
-      1561572875, 
-      102527513, 
-      85922583, 
-      1159396337, 
+      85688637,
+      102087579,
+      85633793,
+      102527513,
+      85922583,
+      1159396337,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561572875,
-    "wof:lastmodified": 1582659647,
+    "wof:lastmodified": 1717009732,
     "wof:name": "ACA581 (SFO-YYC)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -114.02092, 
+    -122.370943,
+    37.61799,
+    -114.02092,
     51.119526
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-114.02092,51.119526]],"type":"MultiPoint"}

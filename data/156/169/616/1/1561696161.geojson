@@ -2,6 +2,10 @@
   "id": 1561696161,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-12-01",
+    "date:cessation_upper": "2006-12-31",
+    "date:inception_lower": "2006-12-06",
+    "date:inception_upper": "2006-12-06",
     "edtf:cessation": "2006-12-06~",
     "edtf:inception": "2006-12-06T07:38:21",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20061206-D-DAL-1448",
     "sfomuseum:flight_number": [
-      "DL1448", 
+      "DL1448",
       "DAL1448"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396337, 
-      102087579, 
-      85922583, 
-      102527513, 
-      1561696161, 
-      85688637, 
-      102191575, 
+      1159396337,
+      102087579,
+      85922583,
+      102527513,
+      85688637,
+      102191575,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561696161,
-    "wof:lastmodified": 1582661277,
+    "wof:lastmodified": 1717009743,
     "wof:name": "DAL1448 (SFO-JFK)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -73.787845, 
+    -122.370943,
+    37.61799,
+    -73.787845,
     40.643286
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-73.787845,40.643286]],"type":"MultiPoint"}

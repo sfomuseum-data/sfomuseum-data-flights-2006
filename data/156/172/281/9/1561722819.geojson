@@ -2,6 +2,10 @@
   "id": 1561722819,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-12-28",
+    "date:cessation_upper": "2006-12-28",
+    "date:inception_lower": "2006-12-01",
+    "date:inception_upper": "2006-12-31",
     "edtf:cessation": "2006-12-28T09:18:19",
     "edtf:inception": "2006-12-28~",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527529,
     "sfomuseum:flight_id": "20061228-A-AAL-9611",
     "sfomuseum:flight_number": [
-      "AA9611", 
+      "AA9611",
       "AAL9611"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      85688637, 
-      102191575, 
-      102527513, 
-      102087579, 
-      85922583, 
-      1561722819, 
+      85633793,
+      85688637,
+      102191575,
+      102527513,
+      102087579,
+      85922583,
       1159396337
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561722819,
-    "wof:lastmodified": 1582661619,
+    "wof:lastmodified": 1717009742,
     "wof:name": "AAL9611 (SJC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.363728, 
-    -121.928755, 
+    -122.370943,
+    37.363728,
+    -121.928755,
     37.61799
   ],
   "geometry": {"coordinates":[[-121.928755,37.363728],[-122.370943,37.61799]],"type":"MultiPoint"}

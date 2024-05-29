@@ -2,6 +2,10 @@
   "id": 1561672481,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-11-01",
+    "date:cessation_upper": "2006-11-30",
+    "date:inception_lower": "2006-11-15",
+    "date:inception_upper": "2006-11-15",
     "edtf:cessation": "2006-11-15~",
     "edtf:inception": "2006-11-15T15:53:23",
     "flysfo:airline": "JL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20061115-D-JAL-6080",
     "sfomuseum:flight_number": [
-      "JL6080", 
+      "JL6080",
       "JAL6080"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1159396337, 
-      102527513, 
-      102191575, 
-      1561672481, 
-      85633793, 
-      85688637, 
+      102087579,
+      1159396337,
+      102527513,
+      102191575,
+      85633793,
+      85688637,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561672481,
-    "wof:lastmodified": 1582660998,
+    "wof:lastmodified": 1717009740,
     "wof:name": "JAL6080 (SFO-KORD)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.894364, 
+    -122.370943,
+    37.61799,
+    -87.894364,
     41.983038
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-87.894364,41.983038]],"type":"MultiPoint"}

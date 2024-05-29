@@ -2,6 +2,10 @@
   "id": 1561700009,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-12-09",
+    "date:cessation_upper": "2006-12-09",
+    "date:inception_lower": "2006-12-01",
+    "date:inception_upper": "2006-12-31",
     "edtf:cessation": "2006-12-09T08:27:37",
     "edtf:inception": "2006-12-09~",
     "flysfo:airline": "AS",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102532251,
     "sfomuseum:flight_id": "20061209-A-ASA-236",
     "sfomuseum:flight_number": [
-      "AS236", 
+      "AS236",
       "ASA236"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102527513, 
-      102087579, 
-      85633793, 
-      85922583, 
-      1159396337, 
-      102191575, 
-      1561700009
+      85688637,
+      102527513,
+      102087579,
+      85633793,
+      85922583,
+      1159396337,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1582661324,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561700009,
-    "wof:lastmodified": 1582661324,
+    "wof:lastmodified": 1717009738,
     "wof:name": "ASA236 (PDX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.597389, 
-    37.61799, 
-    -122.370943, 
+    -122.597389,
+    37.61799,
+    -122.370943,
     45.586144
   ],
   "geometry": {"coordinates":[[-122.597389,45.586144],[-122.370943,37.61799]],"type":"MultiPoint"}

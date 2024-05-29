@@ -2,6 +2,10 @@
   "id": 1561687913,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-11-01",
+    "date:cessation_upper": "2006-11-30",
+    "date:inception_lower": "2006-11-29",
+    "date:inception_upper": "2006-11-29",
     "edtf:cessation": "2006-11-29~",
     "edtf:inception": "2006-11-29T08:44:44",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20061129-D-DAL-652",
     "sfomuseum:flight_number": [
-      "DL652", 
+      "DL652",
       "DAL652"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396337, 
-      102191575, 
-      102087579, 
-      102527513, 
-      85922583, 
-      85688637, 
-      1561687913, 
+      1159396337,
+      102191575,
+      102087579,
+      102527513,
+      85922583,
+      85688637,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561687913,
-    "wof:lastmodified": 1582661180,
+    "wof:lastmodified": 1717009745,
     "wof:name": "DAL652 (SFO-ATL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.636518, 
-    -84.430686, 
+    -122.370943,
+    33.636518,
+    -84.430686,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-84.430686,33.636518]],"type":"MultiPoint"}

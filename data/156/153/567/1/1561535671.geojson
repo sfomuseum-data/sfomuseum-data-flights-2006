@@ -2,6 +2,10 @@
   "id": 1561535671,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-07-24",
+    "date:cessation_upper": "2006-07-24",
+    "date:inception_lower": "2006-07-01",
+    "date:inception_upper": "2006-07-31",
     "edtf:cessation": "2006-07-24T07:31:42",
     "edtf:inception": "2006-07-24~",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527363,
     "sfomuseum:flight_id": "20060724-A-DAL-9697",
     "sfomuseum:flight_number": [
-      "DL9697", 
+      "DL9697",
       "DAL9697"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      102191575, 
-      1561535671, 
-      102527513, 
-      1159396337, 
-      102087579, 
+      85922583,
+      85688637,
+      102191575,
+      102527513,
+      1159396337,
+      102087579,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561535671,
-    "wof:lastmodified": 1582659270,
+    "wof:lastmodified": 1717009728,
     "wof:name": "DAL9697 (SLC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -111.980566, 
+    -122.370943,
+    37.61799,
+    -111.980566,
     40.78217
   ],
   "geometry": {"coordinates":[[-111.980566,40.78217],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1561411061,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-04-10",
+    "date:cessation_upper": "2006-04-10",
+    "date:inception_lower": "2006-04-01",
+    "date:inception_upper": "2006-04-30",
     "edtf:cessation": "2006-04-10T15:08:15",
     "edtf:inception": "2006-04-10~",
     "flysfo:airline": "HP",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527209,
     "sfomuseum:flight_id": "20060410-A-AWE-873",
     "sfomuseum:flight_number": [
-      "HP873", 
+      "HP873",
       "AWE873"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396337, 
-      102527513, 
-      85922583, 
-      102191575, 
-      85633793, 
-      85688637, 
-      102087579, 
-      1561411061
+      1159396337,
+      102527513,
+      85922583,
+      102191575,
+      85633793,
+      85688637,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1582658060,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561411061,
-    "wof:lastmodified": 1582658060,
+    "wof:lastmodified": 1717009716,
     "wof:name": "AWE873 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}

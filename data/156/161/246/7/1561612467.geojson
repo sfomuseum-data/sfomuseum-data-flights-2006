@@ -2,6 +2,10 @@
   "id": 1561612467,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-09-01",
+    "date:cessation_upper": "2006-09-30",
+    "date:inception_lower": "2006-09-23",
+    "date:inception_upper": "2006-09-23",
     "edtf:cessation": "2006-09-23~",
     "edtf:inception": "2006-09-23T12:42:13",
     "flysfo:airline": "NW",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20060923-D-NWA-480",
     "sfomuseum:flight_number": [
-      "NW480", 
+      "NW480",
       "NWA480"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1159396337, 
-      102527513, 
-      85633793, 
-      1561612467, 
-      85922583, 
-      102087579, 
+      85688637,
+      1159396337,
+      102527513,
+      85633793,
+      85922583,
+      102087579,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561612467,
-    "wof:lastmodified": 1582660055,
+    "wof:lastmodified": 1717009733,
     "wof:name": "NWA480 (SFO-DTW)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -83.351709, 
+    -122.370943,
+    37.61799,
+    -83.351709,
     42.21886
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-83.351709,42.21886]],"type":"MultiPoint"}

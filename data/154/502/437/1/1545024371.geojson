@@ -2,6 +2,10 @@
   "id": 1545024371,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-07-18",
+    "date:cessation_upper": "2006-07-18",
+    "date:inception_lower": "2006-07-01",
+    "date:inception_upper": "2006-07-31",
     "edtf:cessation": "2006-07-18T19:04:42",
     "edtf:inception": "2006-07-18~",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102530983,
     "sfomuseum:flight_id": "20060718-A-AAL-135",
     "sfomuseum:flight_number": [
-      "AA135", 
+      "AA135",
       "AAL135"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1545024371, 
-      85922583, 
-      1159396337, 
-      102527513, 
-      102191575, 
-      85633793, 
-      85688637, 
+      85922583,
+      1159396337,
+      102527513,
+      102191575,
+      85633793,
+      85688637,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545024371,
-    "wof:lastmodified": 1582659202,
+    "wof:lastmodified": 1717009716,
     "wof:name": "AAL135 (MLF-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    0, 
-    0, 
+    -122.370943,
+    0,
+    0,
     37.61799
   ],
   "geometry": {"coordinates":[[0,0],[-122.370943,37.61799]],"type":"MultiPoint"}

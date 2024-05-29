@@ -2,6 +2,10 @@
   "id": 1561473847,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-06-01",
+    "date:cessation_upper": "2006-06-30",
+    "date:inception_lower": "2006-06-02",
+    "date:inception_upper": "2006-06-02",
     "edtf:cessation": "2006-06-02~",
     "edtf:inception": "2006-06-02T23:00:59",
     "flysfo:airline": "PR",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20060602-D-PAL-105",
     "sfomuseum:flight_number": [
-      "PR105", 
+      "PR105",
       "PAL105"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396337, 
-      102191575, 
-      85633793, 
-      85922583, 
-      1561473847, 
-      102087579, 
-      85688637, 
+      1159396337,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      85688637,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561473847,
-    "wof:lastmodified": 1582658666,
+    "wof:lastmodified": 1717009724,
     "wof:name": "PAL105 (SFO-PGUM)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    13.483889, 
-    144.797222, 
+    -122.370943,
+    13.483889,
+    144.797222,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[144.797222,13.483889]],"type":"MultiPoint"}

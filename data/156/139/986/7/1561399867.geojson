@@ -2,6 +2,10 @@
   "id": 1561399867,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-03-31",
+    "date:cessation_upper": "2006-03-31",
+    "date:inception_lower": "2006-03-01",
+    "date:inception_upper": "2006-03-31",
     "edtf:cessation": "2006-03-31T12:07:02",
     "edtf:inception": "2006-03-31~",
     "flysfo:airline": "US",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528659,
     "sfomuseum:flight_id": "20060331-A-USA-55",
     "sfomuseum:flight_number": [
-      "US55", 
+      "US55",
       "USA55"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102527513, 
-      85633793, 
-      102087579, 
-      85922583, 
-      1159396337, 
-      1561399867, 
+      85688637,
+      102527513,
+      85633793,
+      102087579,
+      85922583,
+      1159396337,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561399867,
-    "wof:lastmodified": 1582657913,
+    "wof:lastmodified": 1717009721,
     "wof:name": "USA55 (CLT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.220744, 
-    -80.942777, 
+    -122.370943,
+    35.220744,
+    -80.942777,
     37.61799
   ],
   "geometry": {"coordinates":[[-80.942777,35.220744],[-122.370943,37.61799]],"type":"MultiPoint"}

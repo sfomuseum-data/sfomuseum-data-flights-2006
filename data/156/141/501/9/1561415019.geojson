@@ -2,6 +2,10 @@
   "id": 1561415019,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-04-14",
+    "date:cessation_upper": "2006-04-14",
+    "date:inception_lower": "2006-04-01",
+    "date:inception_upper": "2006-04-30",
     "edtf:cessation": "2006-04-14T05:29:13",
     "edtf:inception": "2006-04-14~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102528943,
     "sfomuseum:flight_id": "20060414-A-UAL-64",
     "sfomuseum:flight_number": [
-      "UA64", 
+      "UA64",
       "UAL64"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      85633793, 
-      102191575, 
-      102087579, 
-      1159396337, 
-      102527513, 
-      1561415019
+      85922583,
+      85688637,
+      85633793,
+      102191575,
+      102087579,
+      1159396337,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1582658096,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561415019,
-    "wof:lastmodified": 1582658096,
+    "wof:lastmodified": 1717009719,
     "wof:name": "UAL64 (LIH-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -159.347789, 
-    21.981539, 
-    -122.370943, 
+    -159.347789,
+    21.981539,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-159.347789,21.981539],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1561694717,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-12-04",
+    "date:cessation_upper": "2006-12-04",
+    "date:inception_lower": "2006-12-01",
+    "date:inception_upper": "2006-12-31",
     "edtf:cessation": "2006-12-04T22:31:42",
     "edtf:inception": "2006-12-04~",
     "flysfo:airline": "TA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102556081,
     "sfomuseum:flight_id": "20061204-A-TAI-562",
     "sfomuseum:flight_number": [
-      "TA562", 
+      "TA562",
       "TAI562"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396337, 
-      102087579, 
-      85922583, 
-      85688637, 
-      102191575, 
-      1561694717, 
-      102527513, 
+      1159396337,
+      102087579,
+      85922583,
+      85688637,
+      102191575,
+      102527513,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561694717,
-    "wof:lastmodified": 1582661260,
+    "wof:lastmodified": 1717009742,
     "wof:name": "TAI562 (MSLP-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    13.444749, 
-    -89.058566, 
+    -122.370943,
+    13.444749,
+    -89.058566,
     37.61799
   ],
   "geometry": {"coordinates":[[-89.058566,13.444749],[-122.370943,37.61799]],"type":"MultiPoint"}

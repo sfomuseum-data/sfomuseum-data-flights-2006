@@ -2,6 +2,10 @@
   "id": 1561616115,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-09-01",
+    "date:cessation_upper": "2006-09-30",
+    "date:inception_lower": "2006-09-26",
+    "date:inception_upper": "2006-09-26",
     "edtf:cessation": "2006-09-26~",
     "edtf:inception": "2006-09-26T13:28:30",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20060926-D-UAL-92",
     "sfomuseum:flight_number": [
-      "UA92", 
+      "UA92",
       "UAL92"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
-      102087579, 
-      1561616115, 
-      85688637, 
-      1159396337, 
-      102527513, 
+      102191575,
+      85633793,
+      102087579,
+      85688637,
+      1159396337,
+      102527513,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561616115,
-    "wof:lastmodified": 1582660092,
+    "wof:lastmodified": 1717009736,
     "wof:name": "UAL92 (SFO-EWR)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -74.177526, 
+    -122.370943,
+    37.61799,
+    -74.177526,
     40.691243
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-74.177526,40.691243]],"type":"MultiPoint"}

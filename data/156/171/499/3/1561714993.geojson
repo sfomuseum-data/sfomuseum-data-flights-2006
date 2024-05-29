@@ -2,6 +2,10 @@
   "id": 1561714993,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-12-21",
+    "date:cessation_upper": "2006-12-21",
+    "date:inception_lower": "2006-12-01",
+    "date:inception_upper": "2006-12-31",
     "edtf:cessation": "2006-12-21T16:10:55",
     "edtf:inception": "2006-12-21~",
     "flysfo:airline": "CO",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102530049,
     "sfomuseum:flight_id": "20061221-A-COA-572",
     "sfomuseum:flight_number": [
-      "CO572", 
+      "CO572",
       "COA572"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1561714993, 
-      1159396337, 
-      102527513, 
-      85633793, 
-      85922583, 
-      102191575, 
+      102087579,
+      1159396337,
+      102527513,
+      85633793,
+      85922583,
+      102191575,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561714993,
-    "wof:lastmodified": 1582661517,
+    "wof:lastmodified": 1717009743,
     "wof:name": "COA572 (EWR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -74.177526, 
+    -122.370943,
+    37.61799,
+    -74.177526,
     40.691243
   ],
   "geometry": {"coordinates":[[-74.177526,40.691243],[-122.370943,37.61799]],"type":"MultiPoint"}

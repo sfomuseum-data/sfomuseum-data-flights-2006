@@ -2,6 +2,10 @@
   "id": 1561635269,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-10-12",
+    "date:cessation_upper": "2006-10-12",
+    "date:inception_lower": "2006-10-01",
+    "date:inception_upper": "2006-10-31",
     "edtf:cessation": "2006-10-12T20:51:31",
     "edtf:inception": "2006-10-12~",
     "flysfo:airline": "AC",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102554947,
     "sfomuseum:flight_id": "20061012-A-ACA-578",
     "sfomuseum:flight_number": [
-      "AC578", 
+      "AC578",
       "ACA578"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102087579, 
-      1561635269, 
-      85922583, 
-      1159396337, 
-      102527513, 
-      85688637, 
+      85633793,
+      102087579,
+      85922583,
+      1159396337,
+      102527513,
+      85688637,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561635269,
-    "wof:lastmodified": 1582660371,
+    "wof:lastmodified": 1717009736,
     "wof:name": "ACA578 (YYC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -114.02092, 
+    -122.370943,
+    37.61799,
+    -114.02092,
     51.119526
   ],
   "geometry": {"coordinates":[[-114.02092,51.119526],[-122.370943,37.61799]],"type":"MultiPoint"}

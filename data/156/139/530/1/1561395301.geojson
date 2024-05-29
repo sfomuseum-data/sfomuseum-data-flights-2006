@@ -2,6 +2,10 @@
   "id": 1561395301,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-03-27",
+    "date:cessation_upper": "2006-03-27",
+    "date:inception_lower": "2006-03-01",
+    "date:inception_upper": "2006-03-31",
     "edtf:cessation": "2006-03-27T12:27:57",
     "edtf:inception": "2006-03-27~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527209,
     "sfomuseum:flight_id": "20060327-A-UAL-1515",
     "sfomuseum:flight_number": [
-      "UA1515", 
+      "UA1515",
       "UAL1515"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      85633793, 
-      102087579, 
-      1561395301, 
-      1159396337, 
-      102527513, 
+      85922583,
+      85688637,
+      85633793,
+      102087579,
+      1159396337,
+      102527513,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561395301,
-    "wof:lastmodified": 1582657842,
+    "wof:lastmodified": 1717009718,
     "wof:name": "UAL1515 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}

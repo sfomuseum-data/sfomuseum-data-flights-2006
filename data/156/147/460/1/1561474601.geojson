@@ -2,6 +2,10 @@
   "id": 1561474601,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-06-03",
+    "date:cessation_upper": "2006-06-03",
+    "date:inception_lower": "2006-06-01",
+    "date:inception_upper": "2006-06-30",
     "edtf:cessation": "2006-06-03T14:47:14",
     "edtf:inception": "2006-06-03~",
     "flysfo:airline": "US",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102529403,
     "sfomuseum:flight_id": "20060603-A-USA-41",
     "sfomuseum:flight_number": [
-      "US41", 
+      "US41",
       "USA41"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1159396337, 
-      85633793, 
-      1561474601, 
-      85922583, 
-      102191575, 
-      102527513, 
+      85688637,
+      1159396337,
+      85633793,
+      85922583,
+      102191575,
+      102527513,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561474601,
-    "wof:lastmodified": 1582658674,
+    "wof:lastmodified": 1717009725,
     "wof:name": "USA41 (PHL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -75.247885, 
+    -122.370943,
+    37.61799,
+    -75.247885,
     39.880952
   ],
   "geometry": {"coordinates":[[-75.247885,39.880952],[-122.370943,37.61799]],"type":"MultiPoint"}

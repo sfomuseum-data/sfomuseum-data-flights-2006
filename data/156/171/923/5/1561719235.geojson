@@ -2,6 +2,10 @@
   "id": 1561719235,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-12-01",
+    "date:cessation_upper": "2006-12-31",
+    "date:inception_lower": "2006-12-25",
+    "date:inception_upper": "2006-12-25",
     "edtf:cessation": "2006-12-25~",
     "edtf:inception": "2006-12-25T09:50:16",
     "flysfo:airline": "F9",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20061225-D-FFT-10",
     "sfomuseum:flight_number": [
-      "F910", 
+      "F910",
       "FFT10"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      85633793, 
-      102191575, 
-      102527513, 
-      102087579, 
-      1561719235, 
+      85922583,
+      85688637,
+      85633793,
+      102191575,
+      102527513,
+      102087579,
       1159396337
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561719235,
-    "wof:lastmodified": 1582661572,
+    "wof:lastmodified": 1717009747,
     "wof:name": "FFT10 (SFO-LAX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-118.38951,33.942593]],"type":"MultiPoint"}

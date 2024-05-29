@@ -2,6 +2,10 @@
   "id": 1561477927,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-06-01",
+    "date:cessation_upper": "2006-06-30",
+    "date:inception_lower": "2006-06-06",
+    "date:inception_upper": "2006-06-06",
     "edtf:cessation": "2006-06-06~",
     "edtf:inception": "2006-06-06T11:16:05",
     "flysfo:airline": "US",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20060606-D-USA-564",
     "sfomuseum:flight_number": [
-      "US564", 
+      "US564",
       "USA564"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85922583, 
-      1561477927, 
-      85688637, 
-      1159396337, 
-      102087579, 
+      102527513,
+      102191575,
+      85922583,
+      85688637,
+      1159396337,
+      102087579,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561477927,
-    "wof:lastmodified": 1582658707,
+    "wof:lastmodified": 1717009728,
     "wof:name": "USA564 (SFO-PHL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -75.247885, 
+    -122.370943,
+    37.61799,
+    -75.247885,
     39.880952
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-75.247885,39.880952]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1561713815,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-12-20",
+    "date:cessation_upper": "2006-12-20",
+    "date:inception_lower": "2006-12-01",
+    "date:inception_upper": "2006-12-31",
     "edtf:cessation": "2006-12-20T16:20:49",
     "edtf:inception": "2006-12-20~",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531023,
     "sfomuseum:flight_id": "20061220-A-AAL-1818",
     "sfomuseum:flight_number": [
-      "AA1818", 
+      "AA1818",
       "AAL1818"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102191575, 
-      1561713815, 
-      85922583, 
-      102527513, 
-      85633793, 
-      102087579, 
+      85688637,
+      102191575,
+      85922583,
+      102527513,
+      85633793,
+      102087579,
       1159396337
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561713815,
-    "wof:lastmodified": 1582661501,
+    "wof:lastmodified": 1717009742,
     "wof:name": "AAL1818 (MIA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    25.79047, 
-    -80.296006, 
+    -122.370943,
+    25.79047,
+    -80.296006,
     37.61799
   ],
   "geometry": {"coordinates":[[-80.296006,25.79047],[-122.370943,37.61799]],"type":"MultiPoint"}

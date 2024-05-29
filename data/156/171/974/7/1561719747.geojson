@@ -2,6 +2,10 @@
   "id": 1561719747,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-12-25",
+    "date:cessation_upper": "2006-12-25",
+    "date:inception_lower": "2006-12-01",
+    "date:inception_upper": "2006-12-31",
     "edtf:cessation": "2006-12-25T17:56:25",
     "edtf:inception": "2006-12-25~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533269,
     "sfomuseum:flight_id": "20061225-A-UAL-301",
     "sfomuseum:flight_number": [
-      "UA301", 
+      "UA301",
       "UAL301"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      102527513, 
-      1561719747, 
-      102191575, 
-      85633793, 
-      102087579, 
+      85922583,
+      85688637,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
       1159396337
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561719747,
-    "wof:lastmodified": 1582661579,
+    "wof:lastmodified": 1717009747,
     "wof:name": "UAL301 (SEA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -122.304268, 
+    -122.370943,
+    37.61799,
+    -122.304268,
     47.441823
   ],
   "geometry": {"coordinates":[[-122.304268,47.441823],[-122.370943,37.61799]],"type":"MultiPoint"}

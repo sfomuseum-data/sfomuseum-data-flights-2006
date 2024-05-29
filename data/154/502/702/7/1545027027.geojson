@@ -2,6 +2,10 @@
   "id": 1545027027,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-08-01",
+    "date:cessation_upper": "2006-08-31",
+    "date:inception_lower": "2006-08-08",
+    "date:inception_upper": "2006-08-08",
     "edtf:cessation": "2006-08-08~",
     "edtf:inception": "2006-08-08T13:16:34",
     "flysfo:airline": "US",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20060808-D-USA-8",
     "sfomuseum:flight_number": [
-      "US8", 
+      "US8",
       "USA8"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396337, 
-      85688637, 
-      102527513, 
-      1545027027, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159396337,
+      85688637,
+      102527513,
+      85633793,
+      102087579,
+      85922583,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545027027,
-    "wof:lastmodified": 1582659461,
+    "wof:lastmodified": 1717009718,
     "wof:name": "USA8 (SFO-CLT)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.220744, 
-    -80.942777, 
+    -122.370943,
+    35.220744,
+    -80.942777,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-80.942777,35.220744]],"type":"MultiPoint"}

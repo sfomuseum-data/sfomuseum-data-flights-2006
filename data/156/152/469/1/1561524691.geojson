@@ -2,6 +2,10 @@
   "id": 1561524691,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-07-01",
+    "date:cessation_upper": "2006-07-31",
+    "date:inception_lower": "2006-07-15",
+    "date:inception_upper": "2006-07-15",
     "edtf:cessation": "2006-07-15~",
     "edtf:inception": "2006-07-15T17:04:17",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20060715-D-UAL-1047",
     "sfomuseum:flight_number": [
-      "UA1047", 
+      "UA1047",
       "UAL1047"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85688637, 
-      102527513, 
-      102191575, 
-      85922583, 
-      85633793, 
-      1159396337, 
-      1561524691
+      102087579,
+      85688637,
+      102527513,
+      102191575,
+      85922583,
+      85633793,
+      1159396337
     ],
     "wof:country": "US",
     "wof:created": 1582659162,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561524691,
-    "wof:lastmodified": 1582659162,
+    "wof:lastmodified": 1717009726,
     "wof:name": "UAL1047 (SFO-ANC)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -149.968401, 
-    37.61799, 
-    -122.370943, 
+    -149.968401,
+    37.61799,
+    -122.370943,
     61.173606
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-149.968401,61.173606]],"type":"MultiPoint"}

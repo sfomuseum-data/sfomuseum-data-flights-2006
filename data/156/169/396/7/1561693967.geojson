@@ -2,6 +2,10 @@
   "id": 1561693967,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-12-04",
+    "date:cessation_upper": "2006-12-04",
+    "date:inception_lower": "2006-12-01",
+    "date:inception_upper": "2006-12-31",
     "edtf:cessation": "2006-12-04T11:17:21",
     "edtf:inception": "2006-12-04~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102528817,
     "sfomuseum:flight_id": "20061204-A-UAL-871",
     "sfomuseum:flight_number": [
-      "UA871", 
+      "UA871",
       "UAL871"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      85922583, 
-      102191575, 
-      85633793, 
-      102087579, 
-      1159396337, 
-      1561693967
+      102527513,
+      85688637,
+      85922583,
+      102191575,
+      85633793,
+      102087579,
+      1159396337
     ],
     "wof:country": "US",
     "wof:created": 1582661250,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561693967,
-    "wof:lastmodified": 1582661250,
+    "wof:lastmodified": 1717009741,
     "wof:name": "UAL871 (IAD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -77.453702, 
+    -122.370943,
+    37.61799,
+    -77.453702,
     38.949246
   ],
   "geometry": {"coordinates":[[-77.453702,38.949246],[-122.370943,37.61799]],"type":"MultiPoint"}

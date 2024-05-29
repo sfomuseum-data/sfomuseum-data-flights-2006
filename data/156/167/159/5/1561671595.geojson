@@ -2,6 +2,10 @@
   "id": 1561671595,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-11-14",
+    "date:cessation_upper": "2006-11-14",
+    "date:inception_lower": "2006-11-01",
+    "date:inception_upper": "2006-11-30",
     "edtf:cessation": "2006-11-14T20:12:40",
     "edtf:inception": "2006-11-14~",
     "flysfo:airline": "US",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102528181,
     "sfomuseum:flight_id": "20061114-A-USA-741",
     "sfomuseum:flight_number": [
-      "US741", 
+      "US741",
       "USA741"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396337, 
-      102087579, 
-      85922583, 
-      85688637, 
-      102527513, 
-      102191575, 
-      85633793, 
-      1561671595
+      1159396337,
+      102087579,
+      85922583,
+      85688637,
+      102527513,
+      102191575,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1582660988,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561671595,
-    "wof:lastmodified": 1582660988,
+    "wof:lastmodified": 1717009739,
     "wof:name": "USA741 (PIT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -80.259551, 
+    -122.370943,
+    37.61799,
+    -80.259551,
     40.492624
   ],
   "geometry": {"coordinates":[[-80.259551,40.492624],[-122.370943,37.61799]],"type":"MultiPoint"}

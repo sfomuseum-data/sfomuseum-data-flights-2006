@@ -2,6 +2,10 @@
   "id": 1561716265,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-12-22",
+    "date:cessation_upper": "2006-12-22",
+    "date:inception_lower": "2006-12-01",
+    "date:inception_upper": "2006-12-31",
     "edtf:cessation": "2006-12-22T16:45:52",
     "edtf:inception": "2006-12-22~",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533631,
     "sfomuseum:flight_id": "20061222-A-AAL-1687",
     "sfomuseum:flight_number": [
-      "AA1687", 
+      "AA1687",
       "AAL1687"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      102527513, 
-      1561716265, 
-      85633793, 
-      1159396337, 
-      102087579, 
+      85922583,
+      85688637,
+      102527513,
+      85633793,
+      1159396337,
+      102087579,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561716265,
-    "wof:lastmodified": 1582661533,
+    "wof:lastmodified": 1717009744,
     "wof:name": "AAL1687 (ORD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.894364, 
+    -122.370943,
+    37.61799,
+    -87.894364,
     41.983038
   ],
   "geometry": {"coordinates":[[-87.894364,41.983038],[-122.370943,37.61799]],"type":"MultiPoint"}

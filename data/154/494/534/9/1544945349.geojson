@@ -2,6 +2,10 @@
   "id": 1544945349,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-04-11",
+    "date:cessation_upper": "2006-04-11",
+    "date:inception_lower": "2006-04-01",
+    "date:inception_upper": "2006-04-30",
     "edtf:cessation": "2006-04-11T22:13:24",
     "edtf:inception": "2006-04-11~",
     "flysfo:airline": "DL",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533657,
     "sfomuseum:flight_id": "20060411-A-DAL-1985",
     "sfomuseum:flight_number": [
-      "DL1985", 
+      "DL1985",
       "DAL1985"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      102191575, 
-      85688637, 
-      85922583, 
-      102527513, 
-      85633793, 
-      1159396337, 
-      1544945349
+      102087579,
+      102191575,
+      85688637,
+      85922583,
+      102527513,
+      85633793,
+      1159396337
     ],
     "wof:country": "US",
     "wof:created": 1582658074,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1544945349,
-    "wof:lastmodified": 1582658074,
+    "wof:lastmodified": 1717009741,
     "wof:name": "DAL1985 (MCO-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    28.431495, 
-    -81.307537, 
+    -122.370943,
+    28.431495,
+    -81.307537,
     37.61799
   ],
   "geometry": {"coordinates":[[-81.307537,28.431495],[-122.370943,37.61799]],"type":"MultiPoint"}

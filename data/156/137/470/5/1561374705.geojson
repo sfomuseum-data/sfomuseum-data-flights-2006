@@ -2,6 +2,10 @@
   "id": 1561374705,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-03-01",
+    "date:cessation_upper": "2006-03-31",
+    "date:inception_lower": "2006-03-09",
+    "date:inception_upper": "2006-03-09",
     "edtf:cessation": "2006-03-09~",
     "edtf:inception": "2006-03-09T10:49:25",
     "flysfo:airline": "TZ",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20060309-D-AMT-4625",
     "sfomuseum:flight_number": [
-      "TZ4625", 
+      "TZ4625",
       "AMT4625"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      1159396337, 
-      102087579, 
-      85688637, 
-      1561374705
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      1159396337,
+      102087579,
+      85688637
     ],
     "wof:country": "US",
     "wof:created": 1582657489,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561374705,
-    "wof:lastmodified": 1582657489,
+    "wof:lastmodified": 1717009717,
     "wof:name": "AMT4625 (SFO-HNL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -157.918416, 
-    21.332508, 
-    -122.370943, 
+    -157.918416,
+    21.332508,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-157.918416,21.332508]],"type":"MultiPoint"}

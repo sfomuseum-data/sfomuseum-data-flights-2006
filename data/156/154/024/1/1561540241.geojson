@@ -2,6 +2,10 @@
   "id": 1561540241,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-07-27",
+    "date:cessation_upper": "2006-07-27",
+    "date:inception_lower": "2006-07-01",
+    "date:inception_upper": "2006-07-31",
     "edtf:cessation": "2006-07-27T14:14:43",
     "edtf:inception": "2006-07-27~",
     "flysfo:airline": "KZ",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102541685,
     "sfomuseum:flight_id": "20060727-A-NCA-152",
     "sfomuseum:flight_number": [
-      "KZ152", 
+      "KZ152",
       "NCA152"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      85922583, 
-      102191575, 
-      102087579, 
-      1561540241, 
-      1159396337, 
-      102527513, 
+      85688637,
+      85922583,
+      102191575,
+      102087579,
+      1159396337,
+      102527513,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561540241,
-    "wof:lastmodified": 1582659315,
+    "wof:lastmodified": 1717009728,
     "wof:name": "NCA152 (NRT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.755744, 
-    140.395257, 
+    -122.370943,
+    35.755744,
+    140.395257,
     37.61799
   ],
   "geometry": {"coordinates":[[140.395257,35.755744],[-122.370943,37.61799]],"type":"MultiPoint"}

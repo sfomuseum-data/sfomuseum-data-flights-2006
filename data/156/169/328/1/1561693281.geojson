@@ -2,6 +2,10 @@
   "id": 1561693281,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-12-01",
+    "date:cessation_upper": "2006-12-31",
+    "date:inception_lower": "2006-12-03",
+    "date:inception_upper": "2006-12-03",
     "edtf:cessation": "2006-12-03~",
     "edtf:inception": "2006-12-03T19:11:31",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20061203-D-UAL-79",
     "sfomuseum:flight_number": [
-      "UA79", 
+      "UA79",
       "UAL79"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      1159396337, 
-      102527513, 
-      1561693281, 
-      102191575, 
-      102087579, 
+      85922583,
+      85688637,
+      1159396337,
+      102527513,
+      102191575,
+      102087579,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561693281,
-    "wof:lastmodified": 1582661242,
+    "wof:lastmodified": 1717009741,
     "wof:name": "UAL79 (SFO-PHNL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -157.918416, 
-    21.332508, 
-    -122.370943, 
+    -157.918416,
+    21.332508,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-157.918416,21.332508]],"type":"MultiPoint"}

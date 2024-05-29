@@ -2,6 +2,10 @@
   "id": 1561682973,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-11-24",
+    "date:cessation_upper": "2006-11-24",
+    "date:inception_lower": "2006-11-01",
+    "date:inception_upper": "2006-11-30",
     "edtf:cessation": "2006-11-24T21:16:49",
     "edtf:inception": "2006-11-24~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102530801,
     "sfomuseum:flight_id": "20061124-A-UAL-9954",
     "sfomuseum:flight_number": [
-      "UA9954", 
+      "UA9954",
       "UAL9954"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1561682973, 
-      102527513, 
-      1159396337, 
-      102191575, 
-      102087579, 
-      85633793, 
-      85922583, 
+      102527513,
+      1159396337,
+      102191575,
+      102087579,
+      85633793,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561682973,
-    "wof:lastmodified": 1582661123,
+    "wof:lastmodified": 1717009740,
     "wof:name": "UAL9954 (VCV-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    34.581613, 
-    -117.374502, 
+    -122.370943,
+    34.581613,
+    -117.374502,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.374502,34.581613],[-122.370943,37.61799]],"type":"MultiPoint"}

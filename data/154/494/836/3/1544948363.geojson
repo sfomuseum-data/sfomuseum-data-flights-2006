@@ -2,6 +2,10 @@
   "id": 1544948363,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-12-20",
+    "date:cessation_upper": "2006-12-20",
+    "date:inception_lower": "2006-12-01",
+    "date:inception_upper": "2006-12-31",
     "edtf:cessation": "2006-12-20T20:22:11",
     "edtf:inception": "2006-12-20~",
     "flysfo:airline": "HA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533997,
     "sfomuseum:flight_id": "20061220-A-HAL-12",
     "sfomuseum:flight_number": [
-      "HA12", 
+      "HA12",
       "HAL12"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      1159396337, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      1544948363
+      85922583,
+      85688637,
+      1159396337,
+      102527513,
+      102191575,
+      85633793,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1582661505,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1544948363,
-    "wof:lastmodified": 1582661505,
+    "wof:lastmodified": 1717009715,
     "wof:name": "HAL12 (HNL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -157.918416, 
-    21.332508, 
-    -122.370943, 
+    -157.918416,
+    21.332508,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-157.918416,21.332508],[-122.370943,37.61799]],"type":"MultiPoint"}

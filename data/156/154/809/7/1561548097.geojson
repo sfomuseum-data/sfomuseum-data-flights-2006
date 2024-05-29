@@ -2,6 +2,10 @@
   "id": 1561548097,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-08-02",
+    "date:cessation_upper": "2006-08-02",
+    "date:inception_lower": "2006-08-01",
+    "date:inception_upper": "2006-08-31",
     "edtf:cessation": "2006-08-02T14:09:45",
     "edtf:inception": "2006-08-02~",
     "flysfo:airline": "AC",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102554947,
     "sfomuseum:flight_id": "20060802-A-ACA-580",
     "sfomuseum:flight_number": [
-      "AC580", 
+      "AC580",
       "ACA580"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396337, 
-      1561548097, 
-      85922583, 
-      85688637, 
-      102527513, 
-      102191575, 
-      102087579, 
+      1159396337,
+      85922583,
+      85688637,
+      102527513,
+      102191575,
+      102087579,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561548097,
-    "wof:lastmodified": 1582659392,
+    "wof:lastmodified": 1717009735,
     "wof:name": "ACA580 (YYC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -114.02092, 
+    -122.370943,
+    37.61799,
+    -114.02092,
     51.119526
   ],
   "geometry": {"coordinates":[[-114.02092,51.119526],[-122.370943,37.61799]],"type":"MultiPoint"}

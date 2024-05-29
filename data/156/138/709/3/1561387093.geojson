@@ -2,6 +2,10 @@
   "id": 1561387093,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-03-20",
+    "date:cessation_upper": "2006-03-20",
+    "date:inception_lower": "2006-03-01",
+    "date:inception_upper": "2006-03-31",
     "edtf:cessation": "2006-03-20T09:28:38",
     "edtf:inception": "2006-03-20~",
     "flysfo:airline": "TZ",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531205,
     "sfomuseum:flight_id": "20060320-A-AMT-4627",
     "sfomuseum:flight_number": [
-      "TZ4627", 
+      "TZ4627",
       "AMT4627"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      1159396337, 
-      85688637, 
-      102527513, 
-      102191575, 
-      102087579, 
-      1561387093, 
+      85633793,
+      1159396337,
+      85688637,
+      102527513,
+      102191575,
+      102087579,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561387093,
-    "wof:lastmodified": 1582657706,
+    "wof:lastmodified": 1717009719,
     "wof:name": "AMT4627 (MDW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.745903, 
+    -122.370943,
+    37.61799,
+    -87.745903,
     41.787532
   ],
   "geometry": {"coordinates":[[-87.745903,41.787532],[-122.370943,37.61799]],"type":"MultiPoint"}

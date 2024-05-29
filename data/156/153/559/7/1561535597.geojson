@@ -2,6 +2,10 @@
   "id": 1561535597,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-07-01",
+    "date:cessation_upper": "2006-07-31",
+    "date:inception_lower": "2006-07-24",
+    "date:inception_upper": "2006-07-24",
     "edtf:cessation": "2006-07-24~",
     "edtf:inception": "2006-07-24T02:35:30",
     "flysfo:airline": "",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20060724-D-ABX-1920",
     "sfomuseum:flight_number": [
-      "1920", 
+      "1920",
       "ABX1920"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85633793, 
-      1561535597, 
-      102087579, 
-      85688637, 
-      102191575, 
-      85922583, 
+      102527513,
+      85633793,
+      102087579,
+      85688637,
+      102191575,
+      85922583,
       1159396337
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561535597,
-    "wof:lastmodified": 1582659270,
+    "wof:lastmodified": 1717009728,
     "wof:name": "ABX1920 (SFO-BFI)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -122.301589, 
+    -122.370943,
+    37.61799,
+    -122.301589,
     47.536582
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-122.301589,47.536582]],"type":"MultiPoint"}

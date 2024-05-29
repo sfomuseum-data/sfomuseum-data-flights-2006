@@ -2,6 +2,10 @@
   "id": 1561716175,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-12-22",
+    "date:cessation_upper": "2006-12-22",
+    "date:inception_lower": "2006-12-01",
+    "date:inception_upper": "2006-12-31",
     "edtf:cessation": "2006-12-22T15:00:17",
     "edtf:inception": "2006-12-22~",
     "flysfo:airline": "JW",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528551,
     "sfomuseum:flight_id": "20061222-A-APW-8014",
     "sfomuseum:flight_number": [
-      "JW8014", 
+      "JW8014",
       "APW8014"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85633793, 
-      85922583, 
-      1561716175, 
-      1159396337, 
-      102191575, 
-      102087579, 
+      102527513,
+      85633793,
+      85922583,
+      1159396337,
+      102191575,
+      102087579,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561716175,
-    "wof:lastmodified": 1582661531,
+    "wof:lastmodified": 1717009744,
     "wof:name": "APW8014 (FWA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -85.189232, 
+    -122.370943,
+    37.61799,
+    -85.189232,
     40.987389
   ],
   "geometry": {"coordinates":[[-85.189232,40.987389],[-122.370943,37.61799]],"type":"MultiPoint"}

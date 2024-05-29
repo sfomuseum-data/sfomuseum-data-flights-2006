@@ -2,6 +2,10 @@
   "id": 1561563069,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-08-14",
+    "date:cessation_upper": "2006-08-14",
+    "date:inception_lower": "2006-08-01",
+    "date:inception_upper": "2006-08-31",
     "edtf:cessation": "2006-08-14T17:50:47",
     "edtf:inception": "2006-08-14~",
     "flysfo:airline": "F9",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20060814-A-FFT-1917",
     "sfomuseum:flight_number": [
-      "F91917", 
+      "F91917",
       "FFT1917"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396337, 
-      85633793, 
-      85922583, 
-      85688637, 
-      102191575, 
-      102087579, 
-      102527513, 
-      1561563069
+      1159396337,
+      85633793,
+      85922583,
+      85688637,
+      102191575,
+      102087579,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1582659542,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561563069,
-    "wof:lastmodified": 1582659542,
+    "wof:lastmodified": 1717009732,
     "wof:name": "FFT1917 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

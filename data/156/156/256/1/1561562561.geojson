@@ -2,6 +2,10 @@
   "id": 1561562561,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-08-14",
+    "date:cessation_upper": "2006-08-14",
+    "date:inception_lower": "2006-08-01",
+    "date:inception_upper": "2006-08-31",
     "edtf:cessation": "2006-08-14T11:07:08",
     "edtf:inception": "2006-08-14~",
     "flysfo:airline": "CI",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102525035,
     "sfomuseum:flight_id": "20060814-A-CAL-5207",
     "sfomuseum:flight_number": [
-      "CI5207", 
+      "CI5207",
       "CAL5207"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      102527513, 
-      85922583, 
-      1159396337, 
-      85688637, 
-      102191575, 
-      85633793, 
-      1561562561
+      102087579,
+      102527513,
+      85922583,
+      1159396337,
+      85688637,
+      102191575,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1582659536,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561562561,
-    "wof:lastmodified": 1582659536,
+    "wof:lastmodified": 1717009731,
     "wof:name": "CAL5207 (BNA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.126387, 
-    -86.676652, 
+    -122.370943,
+    36.126387,
+    -86.676652,
     37.61799
   ],
   "geometry": {"coordinates":[[-86.676652,36.126387],[-122.370943,37.61799]],"type":"MultiPoint"}

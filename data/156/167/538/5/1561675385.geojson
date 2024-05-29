@@ -2,6 +2,10 @@
   "id": 1561675385,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-11-18",
+    "date:cessation_upper": "2006-11-18",
+    "date:inception_lower": "2006-11-01",
+    "date:inception_upper": "2006-11-30",
     "edtf:cessation": "2006-11-18T01:47:15",
     "edtf:inception": "2006-11-18~",
     "flysfo:airline": "FX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531041,
     "sfomuseum:flight_id": "20061118-A-FDX-26",
     "sfomuseum:flight_number": [
-      "FX26", 
+      "FX26",
       "FDX26"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102191575, 
-      85688637, 
-      1159396337, 
-      102087579, 
-      1561675385, 
-      85922583, 
+      85633793,
+      102191575,
+      85688637,
+      1159396337,
+      102087579,
+      85922583,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561675385,
-    "wof:lastmodified": 1582661034,
+    "wof:lastmodified": 1717009742,
     "wof:name": "FDX26 (OAK-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -122.212464, 
+    -122.370943,
+    37.61799,
+    -122.212464,
     37.72131
   ],
   "geometry": {"coordinates":[[-122.212464,37.72131],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1561610609,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-09-21",
+    "date:cessation_upper": "2006-09-21",
+    "date:inception_lower": "2006-09-01",
+    "date:inception_upper": "2006-09-30",
     "edtf:cessation": "2006-09-21T19:53:03",
     "edtf:inception": "2006-09-21~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533269,
     "sfomuseum:flight_id": "20060921-A-UAL-1237",
     "sfomuseum:flight_number": [
-      "UA1237", 
+      "UA1237",
       "UAL1237"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1561610609, 
-      102191575, 
-      102087579, 
-      85633793, 
-      85922583, 
-      1159396337, 
+      85688637,
+      102191575,
+      102087579,
+      85633793,
+      85922583,
+      1159396337,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561610609,
-    "wof:lastmodified": 1582660037,
+    "wof:lastmodified": 1717009731,
     "wof:name": "UAL1237 (SEA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -122.304268, 
+    -122.370943,
+    37.61799,
+    -122.304268,
     47.441823
   ],
   "geometry": {"coordinates":[[-122.304268,47.441823],[-122.370943,37.61799]],"type":"MultiPoint"}

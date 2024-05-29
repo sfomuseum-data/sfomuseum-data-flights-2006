@@ -2,6 +2,10 @@
   "id": 1561587995,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-09-03",
+    "date:cessation_upper": "2006-09-03",
+    "date:inception_lower": "2006-09-01",
+    "date:inception_upper": "2006-09-30",
     "edtf:cessation": "2006-09-03T11:19:05",
     "edtf:inception": "2006-09-03~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102530741,
     "sfomuseum:flight_id": "20060903-A-UAL-853",
     "sfomuseum:flight_number": [
-      "UA853", 
+      "UA853",
       "UAL853"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1561587995, 
-      1159396337, 
-      102527513, 
-      102087579, 
-      85922583, 
-      102191575, 
+      85688637,
+      1159396337,
+      102527513,
+      102087579,
+      85922583,
+      102191575,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561587995,
-    "wof:lastmodified": 1582659808,
+    "wof:lastmodified": 1717009736,
     "wof:name": "UAL853 (BOS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -71.01475, 
+    -122.370943,
+    37.61799,
+    -71.01475,
     42.362322
   ],
   "geometry": {"coordinates":[[-71.01475,42.362322],[-122.370943,37.61799]],"type":"MultiPoint"}

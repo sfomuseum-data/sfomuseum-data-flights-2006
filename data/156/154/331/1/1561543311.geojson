@@ -2,6 +2,10 @@
   "id": 1561543311,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-07-29",
+    "date:cessation_upper": "2006-07-29",
+    "date:inception_lower": "2006-07-01",
+    "date:inception_upper": "2006-07-31",
     "edtf:cessation": "2006-07-29T21:40:02",
     "edtf:inception": "2006-07-29~",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102532251,
     "sfomuseum:flight_id": "20060729-A-ASA-310",
     "sfomuseum:flight_number": [
-      "AS310", 
+      "AS310",
       "ASA310"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396337, 
-      1561543311, 
-      102527513, 
-      102191575, 
-      102087579, 
-      85633793, 
-      85688637, 
+      1159396337,
+      102527513,
+      102191575,
+      102087579,
+      85633793,
+      85688637,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561543311,
-    "wof:lastmodified": 1582659345,
+    "wof:lastmodified": 1717009731,
     "wof:name": "ASA310 (PDX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.597389, 
-    37.61799, 
-    -122.370943, 
+    -122.597389,
+    37.61799,
+    -122.370943,
     45.586144
   ],
   "geometry": {"coordinates":[[-122.597389,45.586144],[-122.370943,37.61799]],"type":"MultiPoint"}

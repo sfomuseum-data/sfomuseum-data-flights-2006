@@ -2,6 +2,10 @@
   "id": 1561678377,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-11-20",
+    "date:cessation_upper": "2006-11-20",
+    "date:inception_lower": "2006-11-01",
+    "date:inception_upper": "2006-11-30",
     "edtf:cessation": "2006-11-20T18:24:00",
     "edtf:inception": "2006-11-20~",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528187,
     "sfomuseum:flight_id": "20061120-A-DAL-1849",
     "sfomuseum:flight_number": [
-      "DL1849", 
+      "DL1849",
       "DAL1849"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      1561678377, 
-      102191575, 
-      102087579, 
-      85688637, 
-      1159396337, 
-      85633793, 
+      85922583,
+      102191575,
+      102087579,
+      85688637,
+      1159396337,
+      85633793,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561678377,
-    "wof:lastmodified": 1582661070,
+    "wof:lastmodified": 1717009745,
     "wof:name": "DAL1849 (CVG-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -84.657144, 
+    -122.370943,
+    37.61799,
+    -84.657144,
     39.054422
   ],
   "geometry": {"coordinates":[[-84.657144,39.054422],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1561519797,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-07-11",
+    "date:cessation_upper": "2006-07-11",
+    "date:inception_lower": "2006-07-01",
+    "date:inception_upper": "2006-07-31",
     "edtf:cessation": "2006-07-11T00:13:14",
     "edtf:inception": "2006-07-11~",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102525961,
     "sfomuseum:flight_id": "20060711-A-AAL-583",
     "sfomuseum:flight_number": [
-      "AA583", 
+      "AA583",
       "AAL583"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85688637, 
-      85633793, 
-      1159396337, 
-      1561519797, 
-      85922583, 
-      102527513, 
+      102191575,
+      85688637,
+      85633793,
+      1159396337,
+      85922583,
+      102527513,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561519797,
-    "wof:lastmodified": 1582659115,
+    "wof:lastmodified": 1717009730,
     "wof:name": "AAL583 (STL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -90.367632, 
+    -122.370943,
+    37.61799,
+    -90.367632,
     38.743872
   ],
   "geometry": {"coordinates":[[-90.367632,38.743872],[-122.370943,37.61799]],"type":"MultiPoint"}

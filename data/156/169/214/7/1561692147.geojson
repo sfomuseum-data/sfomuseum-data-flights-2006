@@ -2,6 +2,10 @@
   "id": 1561692147,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-12-02",
+    "date:cessation_upper": "2006-12-02",
+    "date:inception_lower": "2006-12-01",
+    "date:inception_upper": "2006-12-31",
     "edtf:cessation": "2006-12-02T19:21:07",
     "edtf:inception": "2006-12-02~",
     "flysfo:airline": "CO",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102530049,
     "sfomuseum:flight_id": "20061202-A-COA-41",
     "sfomuseum:flight_number": [
-      "CO41", 
+      "CO41",
       "COA41"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1159396337, 
-      102087579, 
-      85922583, 
-      102527513, 
-      85633793, 
-      1561692147, 
+      85688637,
+      1159396337,
+      102087579,
+      85922583,
+      102527513,
+      85633793,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561692147,
-    "wof:lastmodified": 1582661230,
+    "wof:lastmodified": 1717009740,
     "wof:name": "COA41 (EWR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -74.177526, 
+    -122.370943,
+    37.61799,
+    -74.177526,
     40.691243
   ],
   "geometry": {"coordinates":[[-74.177526,40.691243],[-122.370943,37.61799]],"type":"MultiPoint"}

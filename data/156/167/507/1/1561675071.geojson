@@ -2,6 +2,10 @@
   "id": 1561675071,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-11-17",
+    "date:cessation_upper": "2006-11-17",
+    "date:inception_lower": "2006-11-01",
+    "date:inception_upper": "2006-11-30",
     "edtf:cessation": "2006-11-17T19:35:43",
     "edtf:inception": "2006-11-17~",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528541,
     "sfomuseum:flight_id": "20061117-A-AAL-327",
     "sfomuseum:flight_number": [
-      "AA327", 
+      "AA327",
       "AAL327"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1561675071, 
-      85922583, 
-      102087579, 
-      85633793, 
-      85688637, 
-      1159396337, 
-      102527513, 
+      85922583,
+      102087579,
+      85633793,
+      85688637,
+      1159396337,
+      102527513,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561675071,
-    "wof:lastmodified": 1582661030,
+    "wof:lastmodified": 1717009742,
     "wof:name": "AAL327 (DFW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.90366, 
-    -97.050966, 
+    -122.370943,
+    32.90366,
+    -97.050966,
     37.61799
   ],
   "geometry": {"coordinates":[[-97.050966,32.90366],[-122.370943,37.61799]],"type":"MultiPoint"}

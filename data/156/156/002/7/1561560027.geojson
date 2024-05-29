@@ -2,6 +2,10 @@
   "id": 1561560027,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-08-12",
+    "date:cessation_upper": "2006-08-12",
+    "date:inception_lower": "2006-08-01",
+    "date:inception_upper": "2006-08-31",
     "edtf:cessation": "2006-08-12T11:31:24",
     "edtf:inception": "2006-08-12~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102541685,
     "sfomuseum:flight_id": "20060812-A-UAL-852A",
     "sfomuseum:flight_number": [
-      "UA852A", 
+      "UA852A",
       "UAL852A"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85633793, 
-      85688637, 
-      1159396337, 
-      102191575, 
-      102087579, 
-      102527513, 
-      1561560027
+      85922583,
+      85633793,
+      85688637,
+      1159396337,
+      102191575,
+      102087579,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1582659509,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561560027,
-    "wof:lastmodified": 1582659509,
+    "wof:lastmodified": 1717009729,
     "wof:name": "UAL852A (RJAA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.755744, 
-    140.395257, 
+    -122.370943,
+    35.755744,
+    140.395257,
     37.61799
   ],
   "geometry": {"coordinates":[[140.395257,35.755744],[-122.370943,37.61799]],"type":"MultiPoint"}

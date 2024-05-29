@@ -2,6 +2,10 @@
   "id": 1561713725,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-12-20",
+    "date:cessation_upper": "2006-12-20",
+    "date:inception_lower": "2006-12-01",
+    "date:inception_upper": "2006-12-31",
     "edtf:cessation": "2006-12-20T14:30:34",
     "edtf:inception": "2006-12-20~",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533591,
     "sfomuseum:flight_id": "20061220-A-ASA-543",
     "sfomuseum:flight_number": [
-      "AS543", 
+      "AS543",
       "ASA543"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396337, 
-      102191575, 
-      1561713725, 
-      102087579, 
-      85922583, 
-      85633793, 
-      102527513, 
+      1159396337,
+      102191575,
+      102087579,
+      85922583,
+      85633793,
+      102527513,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561713725,
-    "wof:lastmodified": 1582661500,
+    "wof:lastmodified": 1717009742,
     "wof:name": "ASA543 (PSP-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.824619, 
-    -116.506042, 
+    -122.370943,
+    33.824619,
+    -116.506042,
     37.61799
   ],
   "geometry": {"coordinates":[[-116.506042,33.824619],[-122.370943,37.61799]],"type":"MultiPoint"}

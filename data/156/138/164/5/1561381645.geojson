@@ -2,6 +2,10 @@
   "id": 1561381645,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-03-01",
+    "date:cessation_upper": "2006-03-31",
+    "date:inception_lower": "2006-03-15",
+    "date:inception_upper": "2006-03-15",
     "edtf:cessation": "2006-03-15~",
     "edtf:inception": "2006-03-15T12:21:19",
     "flysfo:airline": "CI",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20060315-D-CAL-355",
     "sfomuseum:flight_number": [
-      "CI355", 
+      "CI355",
       "CAL355"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1561381645, 
-      85922583, 
-      102191575, 
-      85633793, 
-      102087579, 
-      102527513, 
-      85688637, 
+      85922583,
+      102191575,
+      85633793,
+      102087579,
+      102527513,
+      85688637,
       1159396337
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561381645,
-    "wof:lastmodified": 1582657610,
+    "wof:lastmodified": 1717009715,
     "wof:name": "CAL355 (SFO-TPE)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    25.078566, 
-    121.233152, 
+    -122.370943,
+    25.078566,
+    121.233152,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[121.233152,25.078566]],"type":"MultiPoint"}

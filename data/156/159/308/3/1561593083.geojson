@@ -2,6 +2,10 @@
   "id": 1561593083,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-09-07",
+    "date:cessation_upper": "2006-09-07",
+    "date:inception_lower": "2006-09-01",
+    "date:inception_upper": "2006-09-30",
     "edtf:cessation": "2006-09-07T12:07:20",
     "edtf:inception": "2006-09-07~",
     "flysfo:airline": "SQ",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102556451,
     "sfomuseum:flight_id": "20060907-A-SIA-016",
     "sfomuseum:flight_number": [
-      "SQ016", 
+      "SQ016",
       "SIA016"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396337, 
-      85633793, 
-      102087579, 
-      85922583, 
-      102191575, 
-      1561593083, 
-      85688637, 
+      1159396337,
+      85633793,
+      102087579,
+      85922583,
+      102191575,
+      85688637,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561593083,
-    "wof:lastmodified": 1582659861,
+    "wof:lastmodified": 1717009732,
     "wof:name": "SIA016 (RKSI-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.453966, 
-    126.661632, 
+    -122.370943,
+    37.453966,
+    126.661632,
     37.61799
   ],
   "geometry": {"coordinates":[[126.661632,37.453966],[-122.370943,37.61799]],"type":"MultiPoint"}

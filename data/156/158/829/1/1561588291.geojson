@@ -2,6 +2,10 @@
   "id": 1561588291,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-09-03",
+    "date:cessation_upper": "2006-09-03",
+    "date:inception_lower": "2006-09-01",
+    "date:inception_upper": "2006-09-30",
     "edtf:cessation": "2006-09-03T14:46:36",
     "edtf:inception": "2006-09-03~",
     "flysfo:airline": "CO",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102530049,
     "sfomuseum:flight_id": "20060903-A-COA-148",
     "sfomuseum:flight_number": [
-      "CO148", 
+      "CO148",
       "COA148"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85633793, 
-      1159396337, 
-      102191575, 
-      102087579, 
-      102527513, 
-      1561588291, 
+      85922583,
+      85633793,
+      1159396337,
+      102191575,
+      102087579,
+      102527513,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561588291,
-    "wof:lastmodified": 1582659811,
+    "wof:lastmodified": 1717009736,
     "wof:name": "COA148 (EWR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -74.177526, 
+    -122.370943,
+    37.61799,
+    -74.177526,
     40.691243
   ],
   "geometry": {"coordinates":[[-74.177526,40.691243],[-122.370943,37.61799]],"type":"MultiPoint"}

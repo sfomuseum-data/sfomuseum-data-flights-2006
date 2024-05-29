@@ -2,6 +2,10 @@
   "id": 1561693235,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-12-01",
+    "date:cessation_upper": "2006-12-31",
+    "date:inception_lower": "2006-12-03",
+    "date:inception_upper": "2006-12-03",
     "edtf:cessation": "2006-12-03~",
     "edtf:inception": "2006-12-03T18:31:45",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20061203-D-ASA-594",
     "sfomuseum:flight_number": [
-      "AS594", 
+      "AS594",
       "ASA594"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      1159396337, 
-      1561693235, 
-      85688637, 
-      102191575, 
-      102087579, 
-      85633793, 
+      85922583,
+      1159396337,
+      85688637,
+      102191575,
+      102087579,
+      85633793,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561693235,
-    "wof:lastmodified": 1582661242,
+    "wof:lastmodified": 1717009741,
     "wof:name": "ASA594 (SFO-SAN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-117.185927,32.733534]],"type":"MultiPoint"}

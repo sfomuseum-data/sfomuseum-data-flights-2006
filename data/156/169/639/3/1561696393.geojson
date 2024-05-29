@@ -2,6 +2,10 @@
   "id": 1561696393,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-12-01",
+    "date:cessation_upper": "2006-12-31",
+    "date:inception_lower": "2006-12-06",
+    "date:inception_upper": "2006-12-06",
     "edtf:cessation": "2006-12-06~",
     "edtf:inception": "2006-12-06T10:36:16",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20061206-D-UAL-748",
     "sfomuseum:flight_number": [
-      "UA748", 
+      "UA748",
       "UAL748"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1159396337, 
-      85633793, 
-      102527513, 
-      102191575, 
-      102087579, 
-      1561696393, 
+      85688637,
+      1159396337,
+      85633793,
+      102527513,
+      102191575,
+      102087579,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561696393,
-    "wof:lastmodified": 1582661280,
+    "wof:lastmodified": 1717009743,
     "wof:name": "UAL748 (SFO-RNO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -119.772167, 
+    -122.370943,
+    37.61799,
+    -119.772167,
     39.505219
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-119.772167,39.505219]],"type":"MultiPoint"}

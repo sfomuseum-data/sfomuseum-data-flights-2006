@@ -2,6 +2,10 @@
   "id": 1545020207,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-06-01",
+    "date:cessation_upper": "2006-06-30",
+    "date:inception_lower": "2006-06-15",
+    "date:inception_upper": "2006-06-15",
     "edtf:cessation": "2006-06-15~",
     "edtf:inception": "2006-06-15T06:17:00",
     "flysfo:airline": "AA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20060615-D-AAL-2294",
     "sfomuseum:flight_number": [
-      "AA2294", 
+      "AA2294",
       "AAL2294"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102191575, 
-      85922583, 
-      102087579, 
-      1159396337, 
-      102527513, 
-      85633793, 
-      1545020207
+      85688637,
+      102191575,
+      85922583,
+      102087579,
+      1159396337,
+      102527513,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1582658795,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545020207,
-    "wof:lastmodified": 1582658795,
+    "wof:lastmodified": 1717009743,
     "wof:name": "AAL2294 (SFO-DFW)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.90366, 
-    -97.050966, 
+    -122.370943,
+    32.90366,
+    -97.050966,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-97.050966,32.90366]],"type":"MultiPoint"}

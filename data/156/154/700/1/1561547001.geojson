@@ -2,6 +2,10 @@
   "id": 1561547001,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-08-01",
+    "date:cessation_upper": "2006-08-01",
+    "date:inception_lower": "2006-08-01",
+    "date:inception_upper": "2006-08-31",
     "edtf:cessation": "2006-08-01T18:11:26",
     "edtf:inception": "2006-08-01~",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102536441,
     "sfomuseum:flight_id": "20060801-A-ASA-201",
     "sfomuseum:flight_number": [
-      "AS201", 
+      "AS201",
       "ASA201"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      1561547001, 
-      102527513, 
-      102191575, 
-      85922583, 
-      1159396337, 
-      102087579, 
+      85633793,
+      102527513,
+      102191575,
+      85922583,
+      1159396337,
+      102087579,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561547001,
-    "wof:lastmodified": 1582659381,
+    "wof:lastmodified": 1717009734,
     "wof:name": "ASA201 (SJD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    23.160962, 
-    -109.717461, 
+    -122.370943,
+    23.160962,
+    -109.717461,
     37.61799
   ],
   "geometry": {"coordinates":[[-109.717461,23.160962],[-122.370943,37.61799]],"type":"MultiPoint"}

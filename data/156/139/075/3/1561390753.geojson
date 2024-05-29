@@ -2,6 +2,10 @@
   "id": 1561390753,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-03-23",
+    "date:cessation_upper": "2006-03-23",
+    "date:inception_lower": "2006-03-01",
+    "date:inception_upper": "2006-03-31",
     "edtf:cessation": "2006-03-23T12:15:38",
     "edtf:inception": "2006-03-23~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528997,
     "sfomuseum:flight_id": "20060323-A-UAL-426",
     "sfomuseum:flight_number": [
-      "UA426", 
+      "UA426",
       "UAL426"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      85922583, 
-      102191575, 
-      102087579, 
-      1561390753, 
-      85688637, 
-      1159396337, 
+      85633793,
+      85922583,
+      102191575,
+      102087579,
+      85688637,
+      1159396337,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561390753,
-    "wof:lastmodified": 1582657769,
+    "wof:lastmodified": 1717009714,
     "wof:name": "UAL426 (SAN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.185927,32.733534],[-122.370943,37.61799]],"type":"MultiPoint"}

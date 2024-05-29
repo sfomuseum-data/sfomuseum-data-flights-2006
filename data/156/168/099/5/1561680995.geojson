@@ -2,6 +2,10 @@
   "id": 1561680995,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-11-22",
+    "date:cessation_upper": "2006-11-22",
+    "date:inception_lower": "2006-11-01",
+    "date:inception_upper": "2006-11-30",
     "edtf:cessation": "2006-11-22T23:11:36",
     "edtf:inception": "2006-11-22~",
     "flysfo:airline": "AA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533631,
     "sfomuseum:flight_id": "20061122-A-AAL-1673",
     "sfomuseum:flight_number": [
-      "AA1673", 
+      "AA1673",
       "AAL1673"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85922583, 
-      1159396337, 
-      85688637, 
-      85633793, 
-      102527513, 
-      102191575, 
-      1561680995
+      102087579,
+      85922583,
+      1159396337,
+      85688637,
+      85633793,
+      102527513,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1582661100,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561680995,
-    "wof:lastmodified": 1582661100,
+    "wof:lastmodified": 1717009739,
     "wof:name": "AAL1673 (ORD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.894364, 
+    -122.370943,
+    37.61799,
+    -87.894364,
     41.983038
   ],
   "geometry": {"coordinates":[[-87.894364,41.983038],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1561482317,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-06-09",
+    "date:cessation_upper": "2006-06-09",
+    "date:inception_lower": "2006-06-01",
+    "date:inception_upper": "2006-06-30",
     "edtf:cessation": "2006-06-09T19:57:19",
     "edtf:inception": "2006-06-09~",
     "flysfo:airline": "US",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102529403,
     "sfomuseum:flight_id": "20060609-A-USA-563P",
     "sfomuseum:flight_number": [
-      "US563P", 
+      "US563P",
       "USA563P"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396337, 
-      102191575, 
-      85688637, 
-      85922583, 
-      102527513, 
-      85633793, 
-      102087579, 
-      1561482317
+      1159396337,
+      102191575,
+      85688637,
+      85922583,
+      102527513,
+      85633793,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1582658749,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561482317,
-    "wof:lastmodified": 1582658749,
+    "wof:lastmodified": 1717009723,
     "wof:name": "USA563P (PHL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -75.247885, 
+    -122.370943,
+    37.61799,
+    -75.247885,
     39.880952
   ],
   "geometry": {"coordinates":[[-75.247885,39.880952],[-122.370943,37.61799]],"type":"MultiPoint"}

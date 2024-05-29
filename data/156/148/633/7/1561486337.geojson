@@ -2,6 +2,10 @@
   "id": 1561486337,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-06-13",
+    "date:cessation_upper": "2006-06-13",
+    "date:inception_lower": "2006-06-01",
+    "date:inception_upper": "2006-06-30",
     "edtf:cessation": "2006-06-13T01:51:19",
     "edtf:inception": "2006-06-13~",
     "flysfo:airline": "BR",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20060613-A-EVA-605",
     "sfomuseum:flight_number": [
-      "BR605", 
+      "BR605",
       "EVA605"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102087579, 
-      85688637, 
-      102191575, 
-      1159396337, 
-      1561486337, 
-      85922583, 
+      85633793,
+      102087579,
+      85688637,
+      102191575,
+      1159396337,
+      85922583,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561486337,
-    "wof:lastmodified": 1582658787,
+    "wof:lastmodified": 1717009726,
     "wof:name": "EVA605 (KLAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

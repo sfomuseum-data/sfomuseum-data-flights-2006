@@ -2,6 +2,10 @@
   "id": 1545030803,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-09-07",
+    "date:cessation_upper": "2006-09-07",
+    "date:inception_lower": "2006-09-01",
+    "date:inception_upper": "2006-09-30",
     "edtf:cessation": "2006-09-07T12:19:43",
     "edtf:inception": "2006-09-07~",
     "flysfo:airline": "US",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102528659,
     "sfomuseum:flight_id": "20060907-A-USA-1455",
     "sfomuseum:flight_number": [
-      "US1455", 
+      "US1455",
       "USA1455"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85688637, 
-      102527513, 
-      85922583, 
-      1159396337, 
-      85633793, 
-      102191575, 
-      1545030803
+      102087579,
+      85688637,
+      102527513,
+      85922583,
+      1159396337,
+      85633793,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1582659862,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545030803,
-    "wof:lastmodified": 1582659862,
+    "wof:lastmodified": 1717009746,
     "wof:name": "USA1455 (CLT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.220744, 
-    -80.942777, 
+    -122.370943,
+    35.220744,
+    -80.942777,
     37.61799
   ],
   "geometry": {"coordinates":[[-80.942777,35.220744],[-122.370943,37.61799]],"type":"MultiPoint"}

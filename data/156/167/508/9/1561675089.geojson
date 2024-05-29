@@ -2,6 +2,10 @@
   "id": 1561675089,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-11-17",
+    "date:cessation_upper": "2006-11-17",
+    "date:inception_lower": "2006-11-01",
+    "date:inception_upper": "2006-11-30",
     "edtf:cessation": "2006-11-17T19:50:29",
     "edtf:inception": "2006-11-17~",
     "flysfo:airline": "US",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102529403,
     "sfomuseum:flight_id": "20061117-A-USA-963",
     "sfomuseum:flight_number": [
-      "US963", 
+      "US963",
       "USA963"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      1159396337, 
-      85922583, 
-      1561675089, 
-      85633793, 
-      102087579, 
+      102527513,
+      102191575,
+      1159396337,
+      85922583,
+      85633793,
+      102087579,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561675089,
-    "wof:lastmodified": 1582661031,
+    "wof:lastmodified": 1717009742,
     "wof:name": "USA963 (PHL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -75.247885, 
+    -122.370943,
+    37.61799,
+    -75.247885,
     39.880952
   ],
   "geometry": {"coordinates":[[-75.247885,39.880952],[-122.370943,37.61799]],"type":"MultiPoint"}

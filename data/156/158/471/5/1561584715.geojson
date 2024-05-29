@@ -2,6 +2,10 @@
   "id": 1561584715,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-08-31",
+    "date:cessation_upper": "2006-08-31",
+    "date:inception_lower": "2006-08-01",
+    "date:inception_upper": "2006-08-31",
     "edtf:cessation": "2006-08-31T09:30:17",
     "edtf:inception": "2006-08-31~",
     "flysfo:airline": "CV",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102556883,
     "sfomuseum:flight_id": "20060831-A-CLX-772",
     "sfomuseum:flight_number": [
-      "CV772", 
+      "CV772",
       "CLX772"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102087579, 
-      1561584715, 
-      85688637, 
-      1159396337, 
-      85922583, 
-      102191575, 
+      102527513,
+      102087579,
+      85688637,
+      1159396337,
+      85922583,
+      102191575,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561584715,
-    "wof:lastmodified": 1582659771,
+    "wof:lastmodified": 1717009733,
     "wof:name": "CLX772 (EGPK-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -4.60734, 
+    -122.370943,
+    37.61799,
+    -4.60734,
     55.51164
   ],
   "geometry": {"coordinates":[[-4.60734,55.51164],[-122.370943,37.61799]],"type":"MultiPoint"}

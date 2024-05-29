@@ -2,6 +2,10 @@
   "id": 1545025911,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-07-30",
+    "date:cessation_upper": "2006-07-30",
+    "date:inception_lower": "2006-07-01",
+    "date:inception_upper": "2006-07-31",
     "edtf:cessation": "2006-07-30T16:20:45",
     "edtf:inception": "2006-07-30~",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20060730-A-AAL-2431",
     "sfomuseum:flight_number": [
-      "AA2431", 
+      "AA2431",
       "AAL2431"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      1545025911, 
-      85688637, 
-      85922583, 
-      102527513, 
-      85633793, 
-      1159396337, 
+      102191575,
+      85688637,
+      85922583,
+      102527513,
+      85633793,
+      1159396337,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545025911,
-    "wof:lastmodified": 1582659354,
+    "wof:lastmodified": 1717009718,
     "wof:name": "AAL2431 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

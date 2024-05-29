@@ -2,6 +2,10 @@
   "id": 1561427665,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-04-25",
+    "date:cessation_upper": "2006-04-25",
+    "date:inception_lower": "2006-04-01",
+    "date:inception_upper": "2006-04-30",
     "edtf:cessation": "2006-04-25T01:24:19",
     "edtf:inception": "2006-04-25~",
     "flysfo:airline": "HP",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527209,
     "sfomuseum:flight_id": "20060425-A-AWE-879",
     "sfomuseum:flight_number": [
-      "HP879", 
+      "HP879",
       "AWE879"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      85688637, 
-      1159396337, 
-      1561427665
+      102087579,
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      85688637,
+      1159396337
     ],
     "wof:country": "US",
     "wof:created": 1582658215,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561427665,
-    "wof:lastmodified": 1582658215,
+    "wof:lastmodified": 1717009721,
     "wof:name": "AWE879 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}

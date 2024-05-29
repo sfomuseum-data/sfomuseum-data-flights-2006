@@ -2,6 +2,10 @@
   "id": 1545010003,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-03-01",
+    "date:cessation_upper": "2006-03-31",
+    "date:inception_lower": "2006-03-18",
+    "date:inception_upper": "2006-03-18",
     "edtf:cessation": "2006-03-18~",
     "edtf:inception": "2006-03-18T12:13:36",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20060318-D-UAL-831",
     "sfomuseum:flight_number": [
-      "UA831", 
+      "UA831",
       "UAL831"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1545010003, 
-      85922583, 
-      85633793, 
-      102191575, 
-      102527513, 
-      102087579, 
-      85688637, 
+      85922583,
+      85633793,
+      102191575,
+      102527513,
+      102087579,
+      85688637,
       1159396337
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545010003,
-    "wof:lastmodified": 1582657670,
+    "wof:lastmodified": 1717009714,
     "wof:name": "UAL831 (SFO-NGO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    34.858398, 
-    136.804993, 
+    -122.370943,
+    34.858398,
+    136.804993,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[136.804993,34.858398]],"type":"MultiPoint"}

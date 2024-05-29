@@ -2,6 +2,10 @@
   "id": 1561660661,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-11-05",
+    "date:cessation_upper": "2006-11-05",
+    "date:inception_lower": "2006-11-01",
+    "date:inception_upper": "2006-11-30",
     "edtf:cessation": "2006-11-05T06:33:44",
     "edtf:inception": "2006-11-05~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533997,
     "sfomuseum:flight_id": "20061105-A-UAL-78",
     "sfomuseum:flight_number": [
-      "UA78", 
+      "UA78",
       "UAL78"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1561660661, 
-      85922583, 
-      102191575, 
-      1159396337, 
-      102527513, 
-      85688637, 
+      102087579,
+      85922583,
+      102191575,
+      1159396337,
+      102527513,
+      85688637,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561660661,
-    "wof:lastmodified": 1582660858,
+    "wof:lastmodified": 1717009738,
     "wof:name": "UAL78 (PHNL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -157.918416, 
-    21.332508, 
-    -122.370943, 
+    -157.918416,
+    21.332508,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-157.918416,21.332508],[-122.370943,37.61799]],"type":"MultiPoint"}

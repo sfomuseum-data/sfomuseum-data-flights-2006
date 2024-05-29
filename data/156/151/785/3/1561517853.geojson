@@ -2,6 +2,10 @@
   "id": 1561517853,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-07-10",
+    "date:cessation_upper": "2006-07-10",
+    "date:inception_lower": "2006-07-01",
+    "date:inception_upper": "2006-07-31",
     "edtf:cessation": "2006-07-10T14:26:31",
     "edtf:inception": "2006-07-10~",
     "flysfo:airline": "JL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102541685,
     "sfomuseum:flight_id": "20060710-A-JAL-6086",
     "sfomuseum:flight_number": [
-      "JL6086", 
+      "JL6086",
       "JAL6086"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      102191575, 
-      1561517853, 
-      1159396337, 
-      102527513, 
-      85633793, 
+      85922583,
+      85688637,
+      102191575,
+      1159396337,
+      102527513,
+      85633793,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561517853,
-    "wof:lastmodified": 1582659096,
+    "wof:lastmodified": 1717009729,
     "wof:name": "JAL6086 (NRT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.755744, 
-    140.395257, 
+    -122.370943,
+    35.755744,
+    140.395257,
     37.61799
   ],
   "geometry": {"coordinates":[[140.395257,35.755744],[-122.370943,37.61799]],"type":"MultiPoint"}

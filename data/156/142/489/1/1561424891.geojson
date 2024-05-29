@@ -2,6 +2,10 @@
   "id": 1561424891,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-04-01",
+    "date:cessation_upper": "2006-04-30",
+    "date:inception_lower": "2006-04-22",
+    "date:inception_upper": "2006-04-22",
     "edtf:cessation": "2006-04-22~",
     "edtf:inception": "2006-04-22T14:28:22",
     "flysfo:airline": "CA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20060422-D-CCA-986",
     "sfomuseum:flight_number": [
-      "CA986", 
+      "CA986",
       "CCA986"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102191575, 
-      102527513, 
-      85922583, 
-      85688637, 
-      102087579, 
-      1561424891, 
+      85633793,
+      102191575,
+      102527513,
+      85922583,
+      85688637,
+      102087579,
       1159396337
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561424891,
-    "wof:lastmodified": 1582658188,
+    "wof:lastmodified": 1717009719,
     "wof:name": "CCA986 (SFO-PEK)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    116.586155, 
+    -122.370943,
+    37.61799,
+    116.586155,
     40.068469
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[116.586155,40.068469]],"type":"MultiPoint"}

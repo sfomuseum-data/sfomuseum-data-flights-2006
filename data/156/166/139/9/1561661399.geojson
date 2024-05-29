@@ -2,6 +2,10 @@
   "id": 1561661399,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-11-05",
+    "date:cessation_upper": "2006-11-05",
+    "date:inception_lower": "2006-11-01",
+    "date:inception_upper": "2006-11-30",
     "edtf:cessation": "2006-11-05T18:15:53",
     "edtf:inception": "2006-11-05~",
     "flysfo:airline": "AS",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102536385,
     "sfomuseum:flight_id": "20061105-A-ASA-233",
     "sfomuseum:flight_number": [
-      "AS233", 
+      "AS233",
       "ASA233"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      1159396337, 
-      102527513, 
-      102087579, 
-      102191575, 
-      85633793, 
-      1561661399
+      85922583,
+      85688637,
+      1159396337,
+      102527513,
+      102087579,
+      102191575,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1582660867,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561661399,
-    "wof:lastmodified": 1582660867,
+    "wof:lastmodified": 1717009739,
     "wof:name": "ASA233 (MZT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    23.165683, 
-    -106.270461, 
+    -122.370943,
+    23.165683,
+    -106.270461,
     37.61799
   ],
   "geometry": {"coordinates":[[-106.270461,23.165683],[-122.370943,37.61799]],"type":"MultiPoint"}

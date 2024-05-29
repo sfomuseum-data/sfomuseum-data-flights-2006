@@ -2,6 +2,10 @@
   "id": 1561516963,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-07-09",
+    "date:cessation_upper": "2006-07-09",
+    "date:inception_lower": "2006-07-01",
+    "date:inception_upper": "2006-07-31",
     "edtf:cessation": "2006-07-09T21:26:28",
     "edtf:inception": "2006-07-09~",
     "flysfo:airline": "",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102530589,
     "sfomuseum:flight_id": "20060709-A-ABX-1820",
     "sfomuseum:flight_number": [
-      "1820", 
+      "1820",
       "ABX1820"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      1159396337, 
-      102527513, 
-      102087579, 
-      1561516963
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      1159396337,
+      102527513,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1582659087,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561516963,
-    "wof:lastmodified": 1582659087,
+    "wof:lastmodified": 1717009728,
     "wof:name": "ABX1820 (MHR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -121.299236, 
+    -122.370943,
+    37.61799,
+    -121.299236,
     38.565316
   ],
   "geometry": {"coordinates":[[-121.299236,38.565316],[-122.370943,37.61799]],"type":"MultiPoint"}

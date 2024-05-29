@@ -2,6 +2,10 @@
   "id": 1561544819,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-07-01",
+    "date:cessation_upper": "2006-07-31",
+    "date:inception_lower": "2006-07-31",
+    "date:inception_upper": "2006-07-31",
     "edtf:cessation": "2006-07-31~",
     "edtf:inception": "2006-07-31T06:37:05",
     "flysfo:airline": "F9",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20060731-D-FFT-650",
     "sfomuseum:flight_number": [
-      "F9650", 
+      "F9650",
       "FFT650"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      102527513, 
-      85688637, 
-      85922583, 
-      85633793, 
-      102087579, 
-      1159396337, 
-      1561544819
+      102191575,
+      102527513,
+      85688637,
+      85922583,
+      85633793,
+      102087579,
+      1159396337
     ],
     "wof:country": "US",
     "wof:created": 1582659360,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561544819,
-    "wof:lastmodified": 1582659360,
+    "wof:lastmodified": 1717009732,
     "wof:name": "FFT650 (SFO-DEN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-104.672219,39.864939]],"type":"MultiPoint"}

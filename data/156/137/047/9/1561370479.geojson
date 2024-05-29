@@ -2,6 +2,10 @@
   "id": 1561370479,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-03-01",
+    "date:cessation_upper": "2006-03-31",
+    "date:inception_lower": "2006-03-02",
+    "date:inception_upper": "2006-03-02",
     "edtf:cessation": "2006-03-02~",
     "edtf:inception": "2006-03-02T14:40:14",
     "flysfo:airline": "HP",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20060302-D-AWE-7590",
     "sfomuseum:flight_number": [
-      "HP7590", 
+      "HP7590",
       "AWE7590"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      1561370479, 
-      85633793, 
-      85688637, 
-      1159396337, 
-      102527513, 
-      102191575, 
+      85922583,
+      85633793,
+      85688637,
+      1159396337,
+      102527513,
+      102191575,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561370479,
-    "wof:lastmodified": 1582657425,
+    "wof:lastmodified": 1717009714,
     "wof:name": "AWE7590 (SFO-JAC)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -110.73854, 
+    -122.370943,
+    37.61799,
+    -110.73854,
     43.6066
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-110.73854,43.6066]],"type":"MultiPoint"}

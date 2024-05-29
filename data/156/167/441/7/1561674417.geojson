@@ -2,6 +2,10 @@
   "id": 1561674417,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-11-17",
+    "date:cessation_upper": "2006-11-17",
+    "date:inception_lower": "2006-11-01",
+    "date:inception_upper": "2006-11-30",
     "edtf:cessation": "2006-11-17T09:42:52",
     "edtf:inception": "2006-11-17~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102534097,
     "sfomuseum:flight_id": "20061117-A-UAL-748",
     "sfomuseum:flight_number": [
-      "UA748", 
+      "UA748",
       "UAL748"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      1561674417, 
-      102087579, 
-      85922583, 
-      85688637, 
-      1159396337, 
-      85633793, 
+      102527513,
+      102087579,
+      85922583,
+      85688637,
+      1159396337,
+      85633793,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561674417,
-    "wof:lastmodified": 1582661022,
+    "wof:lastmodified": 1717009742,
     "wof:name": "UAL748 (IAH-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    29.977186, 
-    -95.338444, 
+    -122.370943,
+    29.977186,
+    -95.338444,
     37.61799
   ],
   "geometry": {"coordinates":[[-95.338444,29.977186],[-122.370943,37.61799]],"type":"MultiPoint"}

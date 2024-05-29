@@ -2,6 +2,10 @@
   "id": 1561564033,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-08-15",
+    "date:cessation_upper": "2006-08-15",
+    "date:inception_lower": "2006-08-01",
+    "date:inception_upper": "2006-08-31",
     "edtf:cessation": "2006-08-15T12:26:00",
     "edtf:inception": "2006-08-15~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102532771,
     "sfomuseum:flight_id": "20060815-A-UAL-186",
     "sfomuseum:flight_number": [
-      "UA186", 
+      "UA186",
       "UAL186"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396337, 
-      1561564033, 
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      85688637, 
+      1159396337,
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      85688637,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561564033,
-    "wof:lastmodified": 1582659552,
+    "wof:lastmodified": 1717009733,
     "wof:name": "UAL186 (BUR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    34.196704, 
-    -118.353322, 
+    -122.370943,
+    34.196704,
+    -118.353322,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.353322,34.196704],[-122.370943,37.61799]],"type":"MultiPoint"}

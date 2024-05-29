@@ -2,6 +2,10 @@
   "id": 1561417393,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2006-04-01",
+    "date:cessation_upper": "2006-04-30",
+    "date:inception_lower": "2006-04-16",
+    "date:inception_upper": "2006-04-16",
     "edtf:cessation": "2006-04-16~",
     "edtf:inception": "2006-04-16T08:36:44",
     "flysfo:airline": "US",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20060416-D-USA-14",
     "sfomuseum:flight_number": [
-      "US14", 
+      "US14",
       "USA14"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1561417393, 
-      102191575, 
-      85633793, 
-      1159396337, 
-      102527513, 
-      85922583, 
+      102087579,
+      102191575,
+      85633793,
+      1159396337,
+      102527513,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561417393,
-    "wof:lastmodified": 1582658119,
+    "wof:lastmodified": 1717009721,
     "wof:name": "USA14 (SFO-PHL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2006",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -75.247885, 
+    -122.370943,
+    37.61799,
+    -75.247885,
     39.880952
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-75.247885,39.880952]],"type":"MultiPoint"}
